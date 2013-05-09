@@ -1,0 +1,7 @@
+input#ccm-nav-intelligent-search {
+    min-height: 5px;
+}
+
+input.ccm-input-text {
+    display: inline;
+}
