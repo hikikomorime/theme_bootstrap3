@@ -14,6 +14,7 @@
         <script>
         $('.nav').addClass('navbar-nav');
         $('.nav-selected').addClass('active');
+        $('.navbar-nav').prepend('<a class="navbar-brand" href="<?php echo DIR_REL; ?>/"><?php echo SITE; ?></a>');
         </script>
     </div>
 
